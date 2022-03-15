@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&family=Press+Start+2P&family=Smooch+Sans:wght@100;500;800&family=Teko:wght@300;400;500;600;700&display=swap');
+
+.header{
+    margin-top: 60px;
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Chakra Petch', sans-serif;
+    color: rgb(180,180,180);
+}
+
+.headerTitleSm{
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+}
+
+.headerImg{
+    width: 100%;
+    object-fit: cover;
+}
